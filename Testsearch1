@@ -1,4 +1,4 @@
-<script>
+
 function filterResources() {
   var input, filter, container, links, i, txtValue;
   input = document.getElementById('gswsSearch');
@@ -15,4 +15,4 @@ function filterResources() {
     }
   }
 }
-</script>
+
